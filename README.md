@@ -1,4 +1,3 @@
-Here's a comprehensive **README** file for your **InsightHub** project on GitHub:
 
 ---
 
@@ -80,10 +79,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feel free to update the placeholder links and include relevant screenshots and additional details about your project.
+
